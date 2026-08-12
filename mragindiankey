@@ -1,26 +1,26 @@
 [
- {
-      "device_id": "9fdc16fe27cd94d3",
-      "activation_key": "AG-F8RU-7XWO-IWNJ",
-      "status": "active",
-      "last_ping": "2026-08-13T22:30:00Z"
-    },
-    {
-      "device_id": "f503255e46c08f91",
-      "activation_key": "AG-33OK-WXQW-UNR1",
-      "status": "active",
-      "last_ping": "2026-08-22T22:30:00Z"
-    },
   {
-      "device_id": "0402b4fa717445c2",
-      "activation_key": "key67890",
-      "status": "active",
-      "last_ping": "2026-08-25T22:30:00Z"
-    },
-{
-      "device_id": "79ee87f27176862b",
-      "activation_key": "AG-ZMQ8-MZMU-NY2N",
-      "status": "active",
-      "last_ping": "2026-08-29T22:30:00Z"
-    }
+    "device_id": "9fdc16fe27cd94d3",
+    "key": "AG-F8RU-7XWO-IWNJ",
+    "expirydate": "12-08-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "f503255e46c08f91",
+    "key": "AG-33OK-WXQW-UNR1",
+    "expirydate": "22-08-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "0402b4fa717445c2",
+    "key": "key67890",
+    "expirydate": "15-08-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "79ee87f27176862b",
+    "key": "AG-ZMQ8-MZMU-NY2N",
+    "expirydate": "19-08-2026",
+    "Allowoffline": true
+  }
 ]
