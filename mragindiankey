@@ -1,62 +1,12 @@
 [
   {
-    "id": 1787238153623,
-    "username": "9fdc16fe27cd94d3",
-    "password": "",
+    "id": 1787238235589,
+    "username": "User01",
+    "password": "Pass01",
     "device_id": "9fdc16fe27cd94d3",
-    "key": "AG-F8RU-7XWO-IWNJ",
-    "expiry": "14-08-2026",
-    "keyExpireTime": "",
-    "allowOffline": true
-  },
-  {
-    "id": 1787238154250,
-    "username": "f503255e46c08f91",
-    "password": "",
-    "device_id": "f503255e46c08f91",
-    "key": "AG-33OK-WXQW-UNR1",
-    "expiry": "22-08-2026",
-    "keyExpireTime": "",
-    "allowOffline": true
-  },
-  {
-    "id": 1787238153444,
-    "username": "0402b4fa717445c2",
-    "password": "",
-    "device_id": "0402b4fa717445c2",
-    "key": "key67890",
-    "expiry": "15-08-2026",
-    "keyExpireTime": "",
-    "allowOffline": true
-  },
-  {
-    "id": 1787238153437,
-    "username": "79ee87f27176862b",
-    "password": "",
-    "device_id": "79ee87f27176862b",
-    "key": "AG-ZMQ8-MZMU-NY2N",
-    "expiry": "19-08-2026",
-    "keyExpireTime": "",
-    "allowOffline": true
-  },
-  {
-    "id": 1787238153612,
-    "username": "3130027067611760",
-    "password": "460424",
-    "device_id": "79ee87f27176862b",
-    "key": "MRAG-001-uS5x",
-    "expiry": "2026-08-27 14:53",
-    "keyExpireTime": "6:00am",
-    "allowOffline": false
-  },
-  {
-    "id": 1787238154045,
-    "username": "3130027067611760",
-    "password": "460424",
-    "device_id": "79ee87f27176862b",
-    "key": "MRAG-002-669U",
-    "expiry": "2026-09-19 14:54",
+    "key": "MRAG-003-dYOz",
+    "expiry": "2026-09-04 15:03",
     "keyExpireTime": "6:00pm",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
