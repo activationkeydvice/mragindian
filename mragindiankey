@@ -4,8 +4,8 @@
     "username": "Manoj633",
     "password": "fjgpDFdb$d",
     "device_id": "9fdc16fe27cd94d3",
-    "expirydate": "04-09-2026",
-    "Allowoffline": true
+    "expirydate": "19-09-2026",
+    "Allowoffline": false
   },
   {
     "id": 1787372721790,
@@ -21,6 +21,6 @@
     "password": "2rK0%U&2Gi",
     "device_id": "f503255e46c08f91",
     "expirydate": "24-08-2026",
-    "Allowoffline": true
+    "Allowoffline": false
   }
 ]
