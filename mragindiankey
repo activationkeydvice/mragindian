@@ -14,13 +14,5 @@
     "device_id": "f503255e46c08f91",
     "expirydate": "04-09-2026",
     "Allowoffline": false
-  },
-  {
-    "id": 1788065237769,
-    "username": "Mahesh1",
-    "password": "Mahesh1",
-    "device_id": "65a408c198cdfc90",
-    "expirydate": "06-09-2026",
-    "Allowoffline": true
   }
 ]
