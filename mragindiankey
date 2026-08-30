@@ -1,6 +1,6 @@
 [
   {
-    "id": 1787986807707,
+    "id": 1788065205646,
     "username": "Manoj633",
     "password": "fjgpDFdb$d",
     "device_id": "9fdc16fe27cd94d3",
@@ -8,15 +8,7 @@
     "Allowoffline": false
   },
   {
-    "id": 1787986807559,
-    "username": "3130027067611760",
-    "password": "460424",
-    "device_id": "79ee87f27176862b",
-    "expirydate": "19-10-2026",
-    "Allowoffline": true
-  },
-  {
-    "id": 1787986807300,
+    "id": 1788065204852,
     "username": "Kavya944",
     "password": "2rK0%U&2Gi",
     "device_id": "f503255e46c08f91",
@@ -24,7 +16,7 @@
     "Allowoffline": false
   },
   {
-    "id": 1787986807306,
+    "id": 1788065204808,
     "username": "Mahesh1",
     "password": "Mahesh1",
     "device_id": "65a408c198cdfc90",
