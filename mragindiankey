@@ -8,32 +8,12 @@
     "banned_devices": []
   },
   "keys": {
-    "Manoj633": {
+    "ANU60301": {
       "status": "approved",
-      "expiry_date": "2026-09-26",
+      "expiry_date": "2026-12-31",
       "max_devices": 1,
-      "hwid": [
-        "9fdc16fe27cd94d3"
-      ],
+      "hwid": [],
       "Allowoffline": false
-    },
-    "Kavya944": {
-      "status": "approved",
-      "expiry_date": "2026-10-13",
-      "max_devices": 1,
-      "hwid": [
-        "f503255e46c08f91"
-      ],
-      "Allowoffline": false
-    },
-    "user1": {
-      "status": "approved",
-      "expiry_date": "2025-10-22",
-      "max_devices": 1,
-      "hwid": [
-        "79ee87f27176862b"
-      ],
-      "Allowoffline": true
     }
   }
 }
