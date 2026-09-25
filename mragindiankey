@@ -1,26 +1,39 @@
-[
-  {
-    "id": 1790040215457,
-    "username": "Manoj633",
-    "password": "fjgpDFdb$d",
-    "device_id": "9fdc16fe27cd94d3",
-    "expirydate": "19-09-2026",
-    "Allowoffline": false
+{
+  "settings": {
+    "title": "PREMIUM ACCESS",
+    "subtitle": "Copy your Device ID and send it to Admin.",
+    "admin_url": "https://t.me/anuragonlineofficial",
+    "banner_url": "https://example.com/banner.webp",
+    "maintenance": false,
+    "banned_devices": []
   },
-  {
-    "id": 1790040216170,
-    "username": "Kavya944",
-    "password": "2rK0%U&2Gi",
-    "device_id": "f503255e46c08f91",
-    "expirydate": "13-10-2026",
-    "Allowoffline": false
-  },
-  {
-    "id": 1790040215775,
-    "username": "user1",
-    "password": "pass123",
-    "device_id": "79ee87f27176862b",
-    "expirydate": "22-10-2026",
-    "Allowoffline": true
+  "keys": {
+    "Manoj633": {
+      "status": "approved",
+      "expiry_date": "2026-09-19",
+      "max_devices": 1,
+      "hwid": [
+        "9fdc16fe27cd94d3"
+      ],
+      "Allowoffline": false
+    },
+    "Kavya944": {
+      "status": "approved",
+      "expiry_date": "2026-10-13",
+      "max_devices": 1,
+      "hwid": [
+        "f503255e46c08f91"
+      ],
+      "Allowoffline": false
+    },
+    "user1": {
+      "status": "approved",
+      "expiry_date": "2026-10-22",
+      "max_devices": 1,
+      "hwid": [
+        "79ee87f27176862b"
+      ],
+      "Allowoffline": true
+    }
   }
-]
+}
