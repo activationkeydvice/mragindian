@@ -48,6 +48,13 @@
       "max_devices": 1,
       "hwid": [],
       "Allowoffline": false
+    },
+    "ANU5MTMH": {
+      "status": "approved",
+      "expiry_date": "2026-10-03",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
     }
   },
   "operators": {}
