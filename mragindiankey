@@ -14,13 +14,6 @@
     "banned_devices": []
   },
   "keys": {
-    "ertyr": {
-      "status": "approved",
-      "expiry_date": "2027-09-26",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false
-    },
     "AO-VIP-QHKFT": {
       "status": "approved",
       "expiry_date": "2026-10-10",
