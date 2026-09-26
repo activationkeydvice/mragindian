@@ -7,13 +7,5 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {
-    "ANU78263": {
-      "status": "approved",
-      "expiry_date": "2026-10-10",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false
-    }
-  }
+  "keys": {}
 }
