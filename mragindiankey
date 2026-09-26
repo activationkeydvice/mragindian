@@ -21,13 +21,6 @@
       "hwid": [],
       "Allowoffline": false
     },
-    "ryhwt": {
-      "status": "approved",
-      "expiry_date": "2027-09-26",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false
-    },
     "ANU9X9R2": {
       "status": "approved",
       "expiry_date": "2026-10-03",
