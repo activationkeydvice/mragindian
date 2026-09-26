@@ -21,6 +21,13 @@
       "hwid": [],
       "Allowoffline": false
     },
+    "ryhwt": {
+      "status": "approved",
+      "expiry_date": "2027-09-26",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
+    },
     "ertyr": {
       "status": "approved",
       "expiry_date": "2027-09-26",
