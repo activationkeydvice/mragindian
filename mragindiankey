@@ -1,21 +1,19 @@
 {
-  "settings": {
-    "title": "PREMIUM ACCESS",
-    "subtitle": "Copy your Device ID and send it to Admin.",
-    "admin_url": "https://t.me/anuragonlineofficial",
-    "banner_url": "https://example.com/banner.webp",
-    "maintenance": false,
-    "banned_devices": []
-  },
+  "settings": {},
   "keys": {
-    "ANU93647": {
+    "ANU6V89P": {
       "status": "approved",
-      "expiry_date": "2026-10-10",
-      "hwid": [],
+      "expiry_date": "2026-10-29",
       "max_devices": 1,
-      "Allowoffline": false,
-      "user": "",
-      "owner": "admin"
+      "hwid": [],
+      "Allowoffline": false
+    },
+    "ANUNN8SC": {
+      "status": "approved",
+      "expiry_date": "2026-10-07",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
     }
   }
 }
