@@ -16,15 +16,6 @@
         "9fdc16fe27cd94d3"
       ],
       "Allowoffline": false
-    },
-    "Kavya944": {
-      "status": "approved",
-      "expiry_date": "2026-10-13",
-      "max_devices": 1,
-      "hwid": [
-        "f503255e46c08f91"
-      ],
-      "Allowoffline": false
     }
   }
 }
