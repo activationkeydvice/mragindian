@@ -13,5 +13,55 @@
     "trial_enabled": false,
     "banned_devices": []
   },
-  "keys": {}
+  "keys": {
+    "ANU55862": {
+      "status": "approved",
+      "expiry_date": "2026-10-25",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
+    },
+    "ryhwt": {
+      "status": "approved",
+      "expiry_date": "2027-09-26",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
+    },
+    "ertyr": {
+      "status": "approved",
+      "expiry_date": "2027-09-26",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
+    },
+    "AO-VIP-QHKFT": {
+      "status": "approved",
+      "expiry_date": "2026-10-10",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
+    },
+    "ANU9X9R2": {
+      "status": "approved",
+      "expiry_date": "2026-10-03",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
+    },
+    "ANU5MTMH": {
+      "status": "approved",
+      "expiry_date": "2026-10-03",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
+    },
+    "ANU44668": {
+      "status": "approved",
+      "expiry_date": "2026-10-10",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
+    }
+  }
 }
