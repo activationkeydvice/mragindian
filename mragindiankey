@@ -7,11 +7,5 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {
-    "DP-43103": {
-      "status": "approved",
-      "expiry_date": "2026-10-25",
-      "hwid": []
-    }
-  }
+  "keys": {}
 }
