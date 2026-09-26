@@ -7,20 +7,5 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {
-    "ANU48291": {
-      "status": "approved",
-      "expiry_date": "2026-10-10",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false
-    },
-    "ANU88134": {
-      "status": "approved",
-      "expiry_date": "2026-10-25",
-      "max_devices": 1,
-      "hwid": [79ee87f27176862b],
-      "Allowoffline": false
-    }
-  }
+  "keys": {}
 }
