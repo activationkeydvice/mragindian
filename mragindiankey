@@ -5,6 +5,12 @@
     "admin_url": "https://t.me/anuragonlineofficial",
     "banner_url": "https://example.com/banner.webp",
     "maintenance": false,
+    "emergency_mode": false,
+    "show_cancel": false,
+    "em_title": "",
+    "em_msg": "",
+    "em_banner": "",
+    "trial_enabled": false,
     "banned_devices": []
   },
   "keys": {
@@ -29,5 +35,6 @@
       "hwid": [],
       "Allowoffline": false
     }
-  }
+  },
+  "operators": {}
 }
