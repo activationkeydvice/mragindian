@@ -7,5 +7,15 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {}
+  "keys": {
+    "ANU93647": {
+      "status": "approved",
+      "expiry_date": "2026-10-10",
+      "hwid": [],
+      "max_devices": 1,
+      "Allowoffline": false,
+      "user": "",
+      "owner": "admin"
+    }
+  }
 }
