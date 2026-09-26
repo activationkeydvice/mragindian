@@ -14,6 +14,13 @@
       "max_devices": 1,
       "hwid": [],
       "Allowoffline": false
+    },
+    "ANU88134": {
+      "status": "approved",
+      "expiry_date": "2026-10-25",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
     }
   }
 }
