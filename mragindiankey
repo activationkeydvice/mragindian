@@ -34,6 +34,13 @@
       "max_devices": 1,
       "hwid": [],
       "Allowoffline": false
+    },
+    "AO-VIP-QHKFT": {
+      "status": "approved",
+      "expiry_date": "2026-10-10",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
     }
   },
   "operators": {}
