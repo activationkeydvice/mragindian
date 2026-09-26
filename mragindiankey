@@ -14,20 +14,6 @@
     "banned_devices": []
   },
   "keys": {
-    "ANU55862": {
-      "status": "approved",
-      "expiry_date": "2026-10-25",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false
-    },
-    "ryhwt": {
-      "status": "approved",
-      "expiry_date": "2027-09-26",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false
-    },
     "ertyr": {
       "status": "approved",
       "expiry_date": "2027-09-26",
@@ -56,6 +42,5 @@
       "hwid": [],
       "Allowoffline": false
     }
-  },
-  "operators": {}
+  }
 }
