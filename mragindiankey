@@ -31,6 +31,13 @@
         "41956e492ab29586"
       ],
       "Allowoffline": false
+    },
+    "ANU12452": {
+      "status": "approved",
+      "expiry_date": "2026-10-27",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
     }
   }
 }
