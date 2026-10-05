@@ -5,32 +5,18 @@
     "admin_url": "https://t.me/anuragonlineofficial",
     "banner_url": "https://example.com/banner.webp",
     "maintenance": false,
-    "emergency_mode": false,
-    "show_cancel": false,
-    "em_title": "",
-    "em_msg": "",
-    "em_banner": "",
-    "trial_enabled": false,
-    "banned_devices": []
+    "banned_devices": [],
+    "prefix": "AV",
+    "start_serial": 1
   },
   "keys": {
-    "ANU55862": {
+    "AV-1-2U37": {
       "status": "approved",
-      "expiry_date": "2026-10-25",
+      "expiry_date": "2026-11-04",
       "max_devices": 1,
-      "hwid": [
-        "79ee87f27176862b"
-      ],
-      "Allowoffline": false
-    },
-    "ANU5MTMH": {
-      "status": "approved",
-      "expiry_date": "2026-10-15",
-      "max_devices": 1,
-      "hwid": [
-        "41956e492ab29586"
-      ],
-      "Allowoffline": false
+      "hwid": [],
+      "Allowoffline": false,
+      "serial": 1
     }
   }
 }
