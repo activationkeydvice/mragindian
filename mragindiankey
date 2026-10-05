@@ -10,54 +10,6 @@
     "start_serial": 1
   },
   "keys": {
-    "AV-1-2U37": {
-      "status": "approved",
-      "expiry_date": "2026-11-04",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false,
-      "serial": 1
-    },
-    "AV-2-7GNS": {
-      "status": "approved",
-      "expiry_date": "2026-10-15",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false,
-      "serial": 2
-    },
-    "AV-3-9222": {
-      "status": "approved",
-      "expiry_date": "2026-10-15",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false,
-      "serial": 3
-    },
-    "AV-4-8ROH": {
-      "status": "approved",
-      "expiry_date": "2026-10-15",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false,
-      "serial": 4
-    },
-    "AV-5-L8AX": {
-      "status": "approved",
-      "expiry_date": "2026-10-15",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false,
-      "serial": 5
-    },
-    "AV-6-FB0V": {
-      "status": "approved",
-      "expiry_date": "2026-10-15",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false,
-      "serial": 6
-    },
     "AV-7-PI2Q": {
       "status": "approved",
       "expiry_date": "2026-10-15",
@@ -81,14 +33,6 @@
       "hwid": [],
       "Allowoffline": false,
       "serial": 9
-    },
-    "AV-10-AHLN": {
-      "status": "approved",
-      "expiry_date": "2026-10-15",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false,
-      "serial": 10
     },
     "AV-11-CVB0": {
       "status": "approved",
@@ -818,7 +762,7 @@
       "Allowoffline": false,
       "serial": 101
     },
-    "AV-102-CGFR": {
+    "AV-102-V8IE": {
       "status": "approved",
       "expiry_date": "2026-11-04",
       "max_devices": 1,
