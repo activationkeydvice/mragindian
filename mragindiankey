@@ -11,9 +11,7 @@
     "em_msg": "",
     "em_banner": "",
     "trial_enabled": false,
-    "banned_devices": [],
-    "prefix": "AV",
-    "start_serial": 1
+    "banned_devices": []
   },
   "keys": {
     "ANU55862": {
@@ -33,14 +31,6 @@
         "41956e492ab29586"
       ],
       "Allowoffline": false
-    },
-    "AV-1-BQXY": {
-      "status": "approved",
-      "expiry_date": "2026-11-04",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false,
-      "serial": 1
     }
   }
 }
