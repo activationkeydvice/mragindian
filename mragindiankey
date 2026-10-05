@@ -817,6 +817,14 @@
       "hwid": [],
       "Allowoffline": false,
       "serial": 101
+    },
+    "AV-102-CGFR": {
+      "status": "approved",
+      "expiry_date": "2026-11-04",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false,
+      "serial": 102
     }
   }
 }
