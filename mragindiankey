@@ -31,6 +31,13 @@
         "41956e492ab29586"
       ],
       "Allowoffline": false
+    },
+    "AV-1-JUPFL2": {
+      "status": "approved",
+      "expiry_date": "2026-10-13",
+      "max_devices": 1,
+      "hwid": [],
+      "Allowoffline": false
     }
   }
 }
