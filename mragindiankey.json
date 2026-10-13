@@ -1,0 +1,14 @@
+{
+  "AVMods_Security": {
+    "App_Status": {
+      "Admin_URL": "",
+      "Banned_Devices": "",
+      "Dialog_Subtitle": "",
+      "Dialog_Title": "AV MODS",
+      "Maintenance": false,
+      "Update_Link": "",
+      "Update_Required": false
+    },
+    "Keys": {}
+  }
+}
