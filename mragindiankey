@@ -31,13 +31,6 @@
         "41956e492ab29586"
       ],
       "Allowoffline": false
-    },
-    "AV-VIP-593X14": {
-      "status": "approved",
-      "expiry_date": "2026-11-14",
-      "max_devices": 1,
-      "hwid": [],
-      "Allowoffline": false
     }
   }
 }
