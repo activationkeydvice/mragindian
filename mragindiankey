@@ -31,6 +31,15 @@
         "41956e492ab29586"
       ],
       "Allowoffline": false
+    },
+    "AV-VIP-WJWKVG": {
+      "status": "approved",
+      "expiry_date": "2027-10-24",
+      "max_devices": 1,
+      "hwid": [
+        "a0136a02dc563e7f"
+      ],
+      "Allowoffline": true
     }
   }
 }
